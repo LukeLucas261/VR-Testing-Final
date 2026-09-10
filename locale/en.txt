@@ -1,0 +1,63 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_44041237_4B49_52E7_41C8_23E2763E7EF8.source = https://maps.app.goo.gl/CUcDRChNFNnystwX7
+LinkBehaviour_44046237_4B49_52E7_41B6_6723C5F61E56.source = https://www.amorygroup.com/en/
+LinkBehaviour_441BE236_4B49_52F9_41D1_30A5A248EF5A.source = https://www.linkedin.com/company/amory-kh/
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_86B6F910_897A_07A2_41DE_4285A58719BF.url = media/map_946D46FB_8453_1867_41D6_A9E5AC771F01_en_0.webp
+imlevel_86B6C910_897A_07A2_4184_097F700F0B99.url = media/map_946D46FB_8453_1867_41D6_A9E5AC771F01_en_1.webp
+imlevel_86B6B910_897A_07A2_41C6_35844ABD91B7.url = media/map_946D46FB_8453_1867_41D6_A9E5AC771F01_en_2.webp
+imlevel_86B6A910_897A_07A2_41E0_E8E802BD4181.url = media/map_946D46FB_8453_1867_41D6_A9E5AC771F01_en_3.webp
+imlevel_86B61922_897A_07E6_41B6_BFFEC20E170D.url = media/map_9C964645_8511_61ED_41DB_13499FC17B04_en_0.webp
+imlevel_86B61922_897A_07E6_41C3_D62510660B79.url = media/map_9C964645_8511_61ED_41DB_13499FC17B04_en_1.webp
+imlevel_86B7F922_897A_07E6_41B0_1FC022FBED2A.url = media/map_9C964645_8511_61ED_41DB_13499FC17B04_en_2.webp
+imlevel_86B7D922_897A_07E6_41D8_E33FA395B8FE.url = media/map_9C964645_8511_61ED_41DB_13499FC17B04_en_3.webp
+
+### Title
+panorama_89EAAF79_850F_5FAC_41D6_D19D72F5CB6C.label = 1
+map_9C964645_8511_61ED_41DB_13499FC17B04.label = 1ST FLOOR
+panorama_8E6337F6_8510_AEA7_418B_06231732DB88.label = 2
+panorama_9CE0E1BB_8513_E298_41DA_BA240B720F93.label = 3
+panorama_8E616ECC_8510_BEE4_41A8_FD9CBAB80C44.label = 4
+panorama_878E68E2_892E_89F6_41D3_8283A5441057.label = 5
+panorama_86052FAA_8912_8876_41D3_4851B0707F70.label = 6
+panorama_87FE0C86_8911_883F_41DA_EBCD5F0AFB34.label = 7
+panorama_8B3A77DC_845A_9433_41D3_BB6CB996D26C.label = 8
+panorama_900BA35E_8473_185E_41B6_F36F3AACEC58.label = 9
+panorama_980B5FD3_8913_87D5_41DC_7A7F05FA80D9.label = BATHROOM 01
+panorama_865A0B83_8913_8835_41DF_EF132A749E23.label = BATHROOM 02
+panorama_8648A0B7_8913_B85D_41DD_1929484ED59C.label = BATHROOM 03
+panorama_9A9813A0_8916_B874_41E0_E6CA20C00DDF.label = BOY BEDROOM
+panorama_845A69E4_8912_8BF0_41D8_D208E158F6E1.label = GIRL BEDROOM
+map_946D46FB_8453_1867_41D6_A9E5AC771F01.label = GROUND FLOOR
+panorama_9927FBF4_891E_8FD2_41A9_3BBAA54085C7.label = MASTER BATHROOM
+panorama_9D077E06_8571_616B_418E_B6208463EC62.label = MASTER BEDROOM
+panorama_882B757D_85B8_0D43_41C9_B0B9326F6C76.label = S-FIRST FLOOR
+
+## Skin
+
+### Button
+Button_457C6D5F_64D0_6790_41D7_73EA7A7C0B12.label = Contact Us
+Button_457E9D60_64D0_67B0_41D4_74152AE58FF2.label = Mini Map
+Button_457CAD5E_64D0_6790_41D5_6F4FA5BC8AFF.label = Screenshot
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = VILLA MARY-INTERIOR DESIGN
+
+### Multiline Text
+HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><B>{{Subtitle}}</B></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = VILLA MERY INTERIOR-VR TESTING
